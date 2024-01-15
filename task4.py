@@ -1,0 +1,1 @@
+print('ya vash rot ebal blyat')
